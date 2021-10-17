@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bimanpc
 - 👀 I’m interested in PC AND COMPUTER
-- 🌱 I’m currently learning  Computers
+- 🌱 I’m currently work on Computers
 - 💞️ I’m looking to collaborate on Github
 
 <!---
